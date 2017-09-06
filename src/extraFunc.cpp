@@ -21,6 +21,7 @@ cv::Rect largerRect(cv::Rect rect1, cv::Rect2d rect2) {
         newRect.y = rect2.y;
     }
     //not done yet, trying to make a large rect that covers both eyes
+    //just testing something
 
     return newRect;
 }
