@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/A548314/source/repos/opencvtest
+# Install script for directory: C:/Users/A548314/Documents/opencv_test
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
