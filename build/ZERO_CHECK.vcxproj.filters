@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\A548314\source\repos\opencvtest\build\CMakeFiles\fa947fe9d37a73c597c69c4521dcda26\generate.stamp.rule">
+    <CustomBuild Include="C:\Users\A548314\Documents\opencv_test\build\CMakeFiles\eb53f61d79da98551b032a562dd83774\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{40912B1A-0B8D-3791-A63F-F3DDDBECEBBF}</UniqueIdentifier>
+      <UniqueIdentifier>{AABB2491-6D7D-394E-B05B-EFC3FEBF25E3}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
