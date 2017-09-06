@@ -1,10 +1,5 @@
-﻿  Building Custom Rule C:/Users/A548314/Documents/opencv_test/CMakeLists.txt
-  CMake does not need to re-run because C:/Users/A548314/Documents/opencv_test/build/CMakeFiles/generate.stamp is up-to-date.
-  main.cpp
-C:\Users\A548314\Documents\opencv_test\src\main.cpp(42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\A548314\Documents\opencv_test\src\main.cpp(43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\A548314\Documents\opencv_test\src\main.cpp(55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-  extraFunc.cpp
-  Generating Code...
+﻿  extraFunc.cpp
+C:\Users\A548314\Documents\opencv_test\src\extraFunc.cpp(14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\A548314\Documents\opencv_test\src\extraFunc.cpp(21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
   opencvtest.vcxproj -> C:\Users\A548314\Documents\opencv_test\build\bin\Debug\opencvtest.exe
   opencvtest.vcxproj -> C:/Users/A548314/Documents/opencv_test/build/bin/Debug/opencvtest.pdb (Full PDB)
